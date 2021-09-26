@@ -19,7 +19,7 @@ export const projects = [
   {
     title: 'URL Shortner',
     description: "This is a basic URL Shortner Application which will Shortern your URL and make it Easy to Remember.",
-      image: '/images/URL.png',
+      image: '/images/url.png',
       tags: ['REST API', 'Java'],
     source: 'https://github.com/babbar1989/URL_Shortner',
     id: 2,
