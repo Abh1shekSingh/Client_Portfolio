@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: "720+", text: 'LeetCode Problems'},
+  { number: "750+", text: 'LeetCode Problems'},
   { number: "RANK 1045", text: 'Google KickStart Round B 2021', },
   { number: "SPECIALIST", text: 'CodeForces', },
   
