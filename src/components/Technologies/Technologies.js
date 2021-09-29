@@ -24,7 +24,7 @@ const Technologies = () =>  (
         <DiFirebase size="3rem"/>
         <ListContainer>Back End
           <ListParagraph>
-            Worked With FireBase Databases to manage the backend of my applications. 
+            Worked With FireBase Database to manage the backend of my applications. 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,9 +33,9 @@ const Technologies = () =>  (
         <DiReact size="3rem"/>
         <ListContainer>Problem Solving
           <ListParagraph>
-            LeetCode | 3.5 Stars (700+ Ques) <br/>
-            CodeForces | Specialist (1507)<br/>
-            Google Kickstart (Rank 1045)
+            LeetCode | 3.5 Stars <em>(750+ Ques)</em> <br/>
+            CodeForces | Specialist <br/><em>(Max Rating 1507)</em><br/>
+            Google Kickstart Round B <br/><em>(Rank 1045)</em>
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Crypto Chat',
     description:"I Developed a Secure Chat Application Using CryptoGraphy Which will allow user to Send Messages in real time Using Firbase Realtime Database. Chat is end to end encrypted with AES algorithm. ",
-    image: '/images/crypto.png',
+    image: '/images/CryptoChat.png',
     tags: ['AES Algorithm', 'FireBase','Cryptography'],
     source: 'https://github.com/babbar1989/Crypto_Chat',
     id: 1,
@@ -29,7 +29,7 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: 'Completed Class 12th From Kendriya Vidyalaya', },
-  { year: 2018, text: 'Persued my B.Tech from Delhi Technical University', },
+  { year: 2022, text: 'Persued my B.Tech from Delhi Technical University', },
   { year: "Feb 2021", text: 'Worked with Digital Register as An SDE Intern', },
   { year: "May 2021", text: 'Worked with 365 Labs as an SDE Intern', },
   { year: 2021, text: 'Got an Oppurtunity To work as Full Time SDE @ Urban Company', },

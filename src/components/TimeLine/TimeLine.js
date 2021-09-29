@@ -48,7 +48,7 @@ const Timeline = () => {
     <SectionTitle main>About Me</SectionTitle>
       <SectionText>
         I'm Abhishek Babbar, I am a App Developer, Competitive Programmer and A SDE1 @ Urban Company based in India. 
-        I am <em><strong>Specialist</strong></em> in CodeForces with <em><strong>Rank 1507</strong></em>, Got <em><strong>Rank 1045</strong></em> in <em><strong>Google KickStart Round B 2021</strong></em>. Solved over <em><strong>700+ Coding Problems</strong></em> on LeetCode.
+        I am <em><strong>Specialist</strong></em> on CodeForces with  <em><strong>Maximum Rating 1507</strong></em>, Got <em><strong>Rank 1045</strong></em> in <em><strong>Google KickStart Round B 2021</strong></em>. Solved over <em><strong>750+ Coding Problems</strong></em> on LeetCode.
       </SectionText>
       <CarouselContainer ref = {carouselRef} onScroll ={handleScroll}>
         <>
