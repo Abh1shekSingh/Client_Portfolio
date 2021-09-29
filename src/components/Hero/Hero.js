@@ -22,7 +22,7 @@ const Hero = (props) => (
     </LeftSection>
 
     <RightSection>
-      <img src="/Images/client1.jpg"></img>
+     <img src="https://i.ibb.co/kQbD8wk/client1.png" alt="client1" border="0"/>
     </RightSection>
     </Partition>
   </Section>
